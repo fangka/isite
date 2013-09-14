@@ -32,3 +32,10 @@ ISite企业建站系统是方卡在线独立原创开发的一套WEB建站程序
 方卡在线不对使用本系统构建的网站或平台承担任何责任。
 
 协议修订日期：2011年08月27日
+
+相关链接
+=====
+
+方卡在线：http://www.fangka.net/
+ISite企业建站系统专题网站：http://qy.ifangka.com/
+方卡在线论坛：http://bbs.ifangka.com/
