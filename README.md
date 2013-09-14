@@ -36,6 +36,6 @@ ISite企业建站系统是方卡在线独立原创开发的一套WEB建站程序
 相关链接
 =====
 
-方卡在线：http://www.fangka.net/
-ISite企业建站系统专题网站：http://qy.ifangka.com/
-方卡在线论坛：http://bbs.ifangka.com/
+方卡在线：[http://www.fangka.net/](http://www.fangka.net/)
+ISite企业建站系统专题网站：[http://qy.ifangka.com/](http://qy.ifangka.com/)
+方卡在线论坛：[http://bbs.ifangka.com/](http://bbs.ifangka.com/)
